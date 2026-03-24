@@ -10,14 +10,13 @@
 ---
 
 I build production-ready web apps, mobile applications, and
-automated trading systems for founders and businesses.
-Specialized in Next.js SaaS products, Flutter mobile apps,
-and AI-powered tools.
+automated trading systems. Specialized in Next.js SaaS products,
+Flutter mobile apps, algorithmic trading EAs, and AI-powered tools.
 
-**I've been building software since 2007** — from neural network
-face detection engines written in pure Java, to modern SaaS
-products powered by LLMs. I ship fast: MVPs in 7 days,
-full SaaS in 14.
+**Building software continuously since 2007** — from a neural network
+face detection engine written in pure Java for my bachelor thesis,
+to modern SaaS products powered by LLMs. I ship fast:
+MVPs in 7 days, full SaaS in 14.
 
 ---
 
@@ -34,7 +33,7 @@ full SaaS in 14.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-0077B5?style=flat-square&logo=metatrader&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-0077B5?style=flat-square&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -56,28 +55,32 @@ full SaaS in 14.
 
 ### 🔨 Currently Building
 
-- 📊 **ReviewPulse** — Reputation monitoring SaaS for Indonesian businesses
+- 📊 **ReviewPulse** — Reputation monitoring SaaS for local businesses
 - 🤖 **LocalBiz AI Marketer** — Marketing automation for Indonesian SMBs
 - 🧾 **Invoice AI Parser** — Fintech automation for finance teams
 - 📈 **Trading EAs** — Algorithmic strategies on [MQL5 Marketplace](https://www.mql5.com/en/users/HandyBan)
 
 ---
 
-### 💡 Something Worth Noting
+### 💡 From 2007: Neural Network Face Detection in Pure Java
 
-In 2007, for my bachelor thesis, I built a **neural network face
-detector from scratch in pure Java** — no OpenCV, no TensorFlow,
-no pretrained models. Just backpropagation math implemented
-line by line, a sliding window scanner, and a Swing UI.
+For my bachelor thesis in 2007, I built a **trainable neural network
+face detection system from scratch in pure Java** — before OpenCV had
+usable Java bindings, before TensorFlow existed, and 5 years before
+deep learning transformed the field.
 
-It classified image patches as face/non-face using a trained MLP,
-ran multi-scale detection across zoom levels, and drew bounding
-boxes on detected faces in real time.
+The system includes:
+- A **backpropagation MLP** classifier trained on face/non-face patches
+- **Multi-scale sliding window** scanner across image pyramids
+- **Z-score normalization** using dataset-computed mean and std vectors
+- **Horizontal flip data augmentation** to double positive training samples
+- Full **Swing GUI** with real-time SSE display and bounding box rendering
+- **Javadoc HTML documentation** generated January 2008
 
-The same fundamental concepts power modern face detection today.
-The frameworks changed — the math didn't.
+Every concept that PyTorch, TensorFlow, and OpenCV now abstract
+into a single function call was implemented line by line.
 
-→ [See the project](https://github.com/banhandy/java-face-detection-2007)
+→ [View the project & documentation](https://github.com/banhandy/java-face-detection-2007)
 
 ---
 
