@@ -43,13 +43,14 @@ MVPs in 7 days, full SaaS in 14.
 
 | Year | Project | Domain | Stack |
 |------|---------|--------|-------|
-| 2007 | [java-face-detection-2007](https://github.com/banhandy/java-face-detection-2007) | Computer Vision / Neural Networks | Java, Swing, Backprop MLP |
-| 2025 | [ERP Investment Casting](https://banhandy.vercel.app) | Industrial SaaS | Next.js, TypeScript, SQL Server |
+| 2025 | [ERP Investment Casting](https://banhandy.vercel.app) | Industrial SaaS | React Js, JavaScript, SQL Server |
 | 2022 | [ventilator_graph](https://github.com/banhandy/ventilator_graph) | Medical Tech | Dart, Flutter |
 | 2022 | [ventilatoros](https://github.com/banhandy/ventilatoros) | Medical Hardware | Flutter, Arduino |
 | 2021 | [maitungsi](https://github.com/banhandy/maitungsi) | Mobile Fintech | Flutter, Firebase |
-| 2018 | [alif](https://github.com/banhandy/alif) | E-Commerce Mobile | Ionic, WooCommerce API |
 | 2020 | [XAUUSD Trading EA](https://www.mql5.com/en/users/HandyBan) | Financial Automation | MQL5, MetaTrader 5 |
+| 2018 | [alif](https://github.com/banhandy/alif) | E-Commerce Mobile | Ionic, WooCommerce API |
+| 2007 | [java-face-detection-2007](https://github.com/banhandy/java-face-detection-2007) | Computer Vision / Neural Networks | Java, Swing, Backprop MLP |
+
 
 ---
 
