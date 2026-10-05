@@ -43,7 +43,7 @@ MVPs in 7 days, full SaaS in 14.
 
 | Year | Project | Domain | Stack |
 |------|---------|--------|-------|
-| 2025 | [ERP Investment Casting](https://banhandy.vercel.app) | Industrial SaaS | React Js, JavaScript, SQL Server |
+| 2025 | [ERP Investment Casting](https://github.com/banhandy/invcasterp-showcase) | Industrial SaaS | React Js, JavaScript, SQL Server |
 | 2022 | [ventilator_graph](https://github.com/banhandy/ventilator_graph) | Medical Tech | Dart, Flutter |
 | 2022 | [ventilatoros](https://github.com/banhandy/ventilatoros) | Medical Hardware | Flutter, Arduino |
 | 2021 | [maitungsi](https://github.com/banhandy/maitungsi) | Mobile Fintech | Flutter, Firebase |
